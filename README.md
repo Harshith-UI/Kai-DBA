@@ -151,6 +151,3 @@ python oracle_retrieve.py
 - Rotate any API keys and database credentials that may have been exposed in the `.env` file
 - Keep the `wallet/` directory out of version control
 
-## License
-
-[MIT](LICENSE)
