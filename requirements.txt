@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+langchain
+langchain-openai
+langchain-pinecone
+langchain-community
+langchain-text-splitters
+pinecone-client
+oracledb
+python-dotenv
+pypdf
+pydantic
+requests

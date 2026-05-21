@@ -1,0 +1,19 @@
+# Environment variables (contains API keys & credentials)
+.env
+
+# macOS
+.DS_Store
+
+# Oracle wallet (contains TLS certificates & credentials)
+wallet/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# IDE
+.idea/
+.vscode/
