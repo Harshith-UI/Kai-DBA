@@ -4,7 +4,7 @@ import requests,os
 from dotenv import load_dotenv
 load_dotenv()
 if __name__ == "__main__":
-    question = "Customer ACME account 883921 failing in PRODDB01. ORA-00001 unique constraint violated."
+    question = "rollback tablespace extension"
     url=os.getenv("REDACT_URL")
     key=os.getenv("REDACT_KEY")
     headers={"REDACT_KEY": key}
